@@ -2,7 +2,7 @@
 
 I'm a data scientist based in Lagos, Nigeria, focused on using machine learning and analytics to solve real-world problems in **financial inclusion**, **agriculture**, **insurance**, and **public health** across Africa.
 
-I work across the full data science pipeline from exploratory analysis and feature engineering to predictive modelling, deep learning, and model explainability — with a strong interest in projects that generate actionable policy and business insights.
+I work across the full data science pipeline from exploratory analysis and feature engineering to predictive modelling, deep learning, and model explainability with a strong interest in projects that generate actionable policy and business insights.
 
 ---
 
